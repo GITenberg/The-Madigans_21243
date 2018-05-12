@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '259'
     url: http://www.gutenberg.org/2009/agents/259
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21243#The-Madigans
 gutenberg_issued: '2007-04-27'
 gutenberg_type: Text
 identifiers:
